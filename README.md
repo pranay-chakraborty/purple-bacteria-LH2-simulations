@@ -1,6 +1,6 @@
 **Timeline of the project**
 
-Quantum Mechanical Modeling of Light Harvesting Apparatus of genus _Rhodopseudomonas_ : Thorough Structural Analysis, Hamiltonian modeling based on structural symmetry,Integrating Correlated $C_{2}$ Site Energy Modulation and Gaussian Diagonal Disorder for Absorption Spectrum Simulations Under High Light and Low Light Conditions.
+Title : Quantum Mechanical Modeling of Light Harvesting Apparatus of genus _Rhodopseudomonas_ : Thorough Structural Analysis, Hamiltonian modeling based on structural symmetry,Integrating Correlated $C_{2}$ Site Energy Modulation and Gaussian Diagonal Disorder for Absorption Spectrum Simulations Under High Light and Low Light Conditions.
 			
 - This was a **side-project/detour** from the main project. It taught me to model and develop codes for diabatic Hamiltonians, and spatial configurations of transition dipole moments for non-trivial aggregates. The LH2 light harvesting complex present in members of the genus Rhodopseudomonas had the perfect amount of complexity to act as a good exercise for me to develop these skills.
 			
