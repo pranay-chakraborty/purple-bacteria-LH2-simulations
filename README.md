@@ -1,4 +1,4 @@
-
+**Timeline of the project**
 
 Quantum Mechanical Modeling of Light Harvesting Apparatus of genus _Rhodopseudomonas_ : Thorough Structural Analysis, Hamiltonian modeling based on structural symmetry,Integrating Correlated $C_{2}$ Site Energy Modulation and Gaussian Diagonal Disorder for Absorption Spectrum Simulations Under High Light and Low Light Conditions.
 			
